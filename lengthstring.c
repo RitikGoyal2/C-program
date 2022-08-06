@@ -9,7 +9,7 @@
 // for( i=0 ;A[i]!='\0';i++)        // find length of the string ----
 // {
 
-// }
+//  }
 // printf("length is %d",i);
 
 //     return 0;
