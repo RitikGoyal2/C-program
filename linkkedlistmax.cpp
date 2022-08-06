@@ -79,7 +79,7 @@ void display(struct Node *p)
 }
 int main()
 {
-    int A[]={-2,59,4,27,10,1,80,9};
+    int A[]= {-2,59,4,27,10,1,80,9};
     create(A,8);
     display(first);
     max(first);
