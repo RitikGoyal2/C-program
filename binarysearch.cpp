@@ -18,7 +18,7 @@ int bs(int a[], int l, int h, int key)
     if(l<=h)
     {
        mid=(l+h)/2;
-       if(key==a[mid])
+       if(key== a[mid])
        {
         return mid;
        }
@@ -36,7 +36,7 @@ int bs(int a[], int l, int h, int key)
 int main()
 {
 
-struct Array arr ={ {1,2,3,4,5,6,7,8,9} ,9,9};
+struct Array arr ={ {1,2,3,4,5,6,7,10,9} ,9,9};
 
 printf("%d",bs(arr.A,0,arr.length,1));
 
