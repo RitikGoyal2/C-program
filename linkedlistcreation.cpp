@@ -36,11 +36,11 @@ void create(int A[],int n)
     }
    }
 
-void insertatbeg(struct Node *p , )
+
 
 int main()
 {
-   int A[]={2,3,4,5,6,7};
+   int A[]= {2,3,4,5,6,7};
    create(A,6);
    display(first);
 
