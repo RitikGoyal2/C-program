@@ -5,7 +5,7 @@ using namespace std ;
 
 struct Array 
 {
-    int A[10];
+    int  A[10];
     int size ;
     int length;
 };
