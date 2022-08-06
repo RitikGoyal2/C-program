@@ -11,7 +11,7 @@ struct Node
 void create(int A[], int n )
 {
     struct Node *t,*last;
-    first = new Node ;
+    first =  new Node ;
     first->next=NULL;
     first->data=A[0];
     last=first;
