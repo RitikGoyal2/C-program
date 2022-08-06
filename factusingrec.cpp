@@ -12,7 +12,7 @@ int fun(int n )
     else 
     {
     
-        return n*fun(n-1);
+        return n *fun(n-1);
     }
     }
     else 
