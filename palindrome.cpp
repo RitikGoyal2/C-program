@@ -10,7 +10,7 @@ int count =0;
 for(int i=0,j=strlen(A)-1;i<=j;i++,j--)
 {
   
-    if(A[i]==A[j])
+    if(A[i]== A[j])
     {
     continue;
     }
