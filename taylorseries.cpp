@@ -59,7 +59,7 @@ double e(int x , int n)
  return s;
 }
 
-int main()
+int  main()
 {
     
     printf("%lf",e(1,10));
